@@ -1,2 +1,2 @@
 # crypto-tracker
-Crypto Currency tracker 
+Crypto Currency tracking
